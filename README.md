@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.gfycat.com/BraveBoldAnchovy-max-1mb.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ali Cem Çakmak</h1>
 <h3 align="center">A passionate physicist who is specializing in quantum computers</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?resize=400x0")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=econ01&label=Profile%20views&color=0e75b6&style=flat" alt="econ01" /> </p>
